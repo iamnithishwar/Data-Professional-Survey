@@ -11,3 +11,6 @@ PowerBI
 Power query
 
 Excel
+
+
+![Output](https://github.com/iamnithishwar/Data-Professional-Survey/assets/108410047/54e04c6b-baa3-4c69-ac26-88aebbc0f581)
